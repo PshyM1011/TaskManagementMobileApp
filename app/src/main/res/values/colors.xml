@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_color_main">#031626</color>
+    <color name="bg_color">#0A100D</color>
+
+    <color name="btn_color">#3EC5E0</color>
+
+    <color name="txt_box_c">#D9ECFC</color>
+    <color name="title">#000F52</color>
+    <color name="task_btn">#00167A</color>
+    <color name="dialog_bg">#B8E9F4</color>
+
+    #0F6FBD
+
+</resources>
